@@ -1,1 +1,0 @@
-# IgorPro8-smDynamicsAnalyzer
