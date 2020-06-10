@@ -21,7 +21,7 @@ https://www.wavemetrics.com/products/igorpro
 ## References
 
 1. Yanagawa M, and Sako Y. (2020) Total workflows of the single-molecule imaging analysis in living cells: a tutorial guidance to the measurement of the drug effects on a GPCR.
-BioRxiv 2020/141192
+BioRxiv 2020/141192 doi: https://doi.org/10.1101/2020.06.08.141192
 
 2. Yanagawa M, Hiroshima M, Togashi Y, Abe M, Yamashita T, Shichida Y, Murata M, Ueda M, and Sako Y. (2018) Single-molecule diffusion-based estimation of ligand effects on G protein-coupled receptors. 
 Sci Signal 11(548). doi:10.1126/scisignal.aao1917
